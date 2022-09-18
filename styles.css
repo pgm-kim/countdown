@@ -8,3 +8,6 @@ section {
     text-align: center;
     padding-top: 15rem;
 }
+body {
+    background: linear-gradient(to top, #c71d6f 0%, #d09693 100%);
+}
