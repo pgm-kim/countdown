@@ -10,5 +10,6 @@ section {
     /* background: 100vh linear-gradient(to top, #c71d6f 0%, #d09693 100%); */
 }
 body {
-    background: linear-gradient(270deg, #c71d6f 0%, #d09693 100%);
+    background: linear-gradient(, #c71d6f 0%, #d09693 100%);
+    backgro
 }
