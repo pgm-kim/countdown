@@ -1,13 +1,17 @@
 h1 {
     font-size: 50px;
 }
+* {
+    font-family: 'Lato', sans-serif;
+}
 
 section {
     width: 40rem;
     margin: auto;
     text-align: center;
     padding-top: 15rem;
-    height: 100vh;
+    height: 64vh;
+    max-height: 100%;
     /* background: 100vh linear-gradient(to top, #c71d6f 0%, #d09693 100%); */
 }
 body {
